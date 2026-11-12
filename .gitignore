@@ -1,0 +1,17 @@
+# Arquivos de ambiente e segredos
+.env
+.env.local
+*.key
+
+# Caches e temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+.cache/
+.pytest_cache/
+venv/
+env/
+
+# Logs e vestígios
+*.log
+scratch/
